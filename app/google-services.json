@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508892324372",
+    "project_id": "drbhavnagar2",
+    "storage_bucket": "drbhavnagar2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508892324372:android:4958e5dbbd065159e77d01",
+        "android_client_info": {
+          "package_name": "com.Dr.Bhavnagar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508892324372-c08b47etg0plo8ku0r06fo2a848fna5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDe8Oou9IpSv_J1LxTRdMiO9oP7TxR-uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508892324372-c08b47etg0plo8ku0r06fo2a848fna5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

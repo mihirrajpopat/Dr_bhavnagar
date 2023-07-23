@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="option_Anesthesiology" type="id"/>
+    <item name="option_Physiotherapist" type="id"/>
+    <item name="option_Dermatology" type="id"/>
+    <item name="option_Cardiologists" type="id"/>
+    <item name="option_GeneralClinicalPathology" type="id"/>
+    <item name="option_AllergistsImmunologists" type="id"/>
+    <item name="option_Endocrinologists" type="id"/>
+    <item name="option_Neurologists" type="id"/>
+    <item name="option_Gynecologists" type="id"/>
+    <item name="option_Surgeon_general" type="id"/>
+    <item name="option_Dentist" type="id"/>
+    <item name="option_Ophthalmologist" type="id"/>
+    <item name="option_ENT" type="id"/>
+    <item name="option_Pediatrician" type="id"/>
+    <item name="option_Radiologist" type="id"/>
+    <item name="option_Rheumatologist" type="id"/>
+    <item name="option_GeneralClinicPathology" type="id"/>
+    <item name="option_Psychiatrist" type="id"/>
+    <item name="option_Surgeongeneral" type="id"/>
+</resources>

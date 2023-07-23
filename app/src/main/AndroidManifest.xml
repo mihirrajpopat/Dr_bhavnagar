@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name="com.Dr.Bhavnagar.splaceactivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+
+
+        <activity android:name="com.Dr.Bhavnagar.controller.MyCalendarDoctorActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.TestActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.AppointementActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.FicheInfo" />
+        <activity android:name="com.Dr.Bhavnagar.controller.PatientInfoActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.DossierMedical" />
+        <activity android:name="com.Dr.Bhavnagar.controller.ChatActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.PatientRequestPage" />
+        <activity android:name="com.Dr.Bhavnagar.controller.DoctorHomeActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.EditProfileDoctorActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.ConfirmedAppointmensActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.PatientAppointementsActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.ProfilePatientActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.MyDoctorsAvtivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.ProfileDoctorActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.EditProfilePatientActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.DoctorAppointementActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.FicheActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.MyPatientsActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.SearchPatActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.FirstSigninActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.HomeActivity" />
+        <activity android:name="com.Dr.Bhavnagar.controller.MainActivity"/>
+
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

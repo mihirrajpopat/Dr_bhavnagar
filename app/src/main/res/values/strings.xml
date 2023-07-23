@@ -1,0 +1,112 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Dr.Bhavnagar</string>
+    <string name="main_activity_description" translatable="false">
+Just chat with your mentors</string>
+
+    <string name="login" translatable="false">Connection.</string>
+    <string name="chat_with_mentor" translatable="false">
+Chat with a mentor</string>
+
+    <!-- NOTIFICATION SERVICE -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="error_not_connected" translatable="false">"You need to log in! "</string>
+    <string name="error_no_internet" translatable="false">"No internet connection! "</string>
+    <string name="button_login_text_not_logged" translatable="false">Connection</string>
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="text_input_username" translatable="false">"Username "</string>
+    <string name="popup_message_choice_yes" translatable="false">"Yes! "</string>
+    <string name="popup_message_choice_no" translatable="false">No</string>
+    <string name="check_box_is_mentor" translatable="false">"Are you a mentor? "</string>
+
+    <!-- MENTOR_CHAT ACTIVITY -->
+    <string name="toolbar_title_mentor_chat_activity" translatable="false">Chats de discussions</string>
+    <string name="text_input_title_mentor_chat_activity" translatable="false">Compose your message</string>
+    <string name="button_title_mentor_chat_activity" translatable="false">SEND</string>
+    <string name="text_view_mentor_chat_error" translatable="false">This thread does not currently contain any messages...</string>
+    <string name="popup_title_permission_files_access" translatable="false">This application needs permission to work.</string>
+    <string name="toast_title_no_image_chosen" translatable="false">No image chosen....</string>
+    <!-- Book api -->
+    <string name="thumbnail" translatable="false">thumbnail</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="category" translatable="false">Category</string>
+    <string name="price" translatable="false">40 $</string>
+    <string name="author" translatable="false">Author</string>
+
+
+    <string name="search">SEARCH</string>
+    <string name="hint">Enter your query </string>
+    <string name="description_image_view">Template for  the image</string>
+    <string name="description_divider">Divider</string>
+    <string name="Failed_to_Load_data">Please check your Internet Connection</string>
+    <string name="NO_RESULT">No matching results</string>
+
+    <string-array name="fiche_type">
+        <item>Consultation</item>
+        <item>Hospitalization</item>
+    </string-array>
+
+    <string-array name="specialite_spinner">
+        <item>Dentist</item>
+        <item>Surgeon General</item>
+        <item>ENT</item>
+        <item>Ophthalmologist</item>
+        <item>Pediatrician</item>
+        <item>Radiologist</item>
+        <item>Physiotherapist</item>
+        <item>Dermatology</item>
+        <item>Anesthesiology</item>
+        <item>Psychiatrist</item>
+        <item>General/Clinical Pathology</item>
+        <item>Rheumatologist</item>
+        <item>Cardiologists</item>
+        <item>Allergists/Immunologists</item>
+        <item>Endocrinologists</item>
+        <item>Neurologists</item>
+        <item>Gynecologists</item>
+    </string-array>
+
+    <string-array name="blood_spinner">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_title" translatable="false">"You have received a notification "</string>
+    <string name="error_authentication_cancelled" translatable="false">"Authentication cancelled...... "</string>
+    <string name="error_authentication_canceled" tools:ignore="DuplicateDefinition">"Authentication canceled.... "</string>
+    <string name="an_error_unknown_error" translatable="false" tools:ignore="DuplicateDefinition">"An unknown error has occurred.... "</string>
+    <string name="error_unknown_error" tools:ignore="DuplicateDefinition">"An unknown error has occurred..... "</string>
+    <string name="connection_succeed" translatable="false">"Authentication successful! "</string>
+    <string name="button_login_text__logged" translatable="false" tools:ignore="DuplicateDefinition">"View Profile "</string>
+    <string name="button_login_text_logged" tools:ignore="DuplicateDefinition">"View Profile "</string>
+    <string name="toolbar_title_login_activity" translatable="false" tools:ignore="DuplicateDefinition">"Your Profile "</string>
+    <string name="your_prof">"Your Profile "</string>
+    <string name="text_view_email" translatable="false">Email address :</string>
+    <string name="button_update_account" translatable="false">"Update username "</string>
+    <string name="button_delete__account" translatable="false">"Delete my account "</string>
+    <string name="button_delete_account" tools:ignore="DuplicateDefinition">"Delete my account "</string>
+    <string name="button_sign__out_account" translatable="false">Logout</string>
+    <string name="button_sign_out_account" tools:ignore="DuplicateDefinition">Logout</string>
+    <string name="info_no_email__found" translatable="false">" email address not found "</string>
+    <string name="info_no_email_found" tools:ignore="DuplicateDefinition">" email address "</string>
+    <string name="info_no_username_found" translatable="false">"No username "</string>
+    <string name="popup_message_confirmation_delete__account" translatable="false">"Are you sure you want to delete your account? "</string>
+    <string name="popup_message_confirmation_delete_account" tools:ignore="DuplicateDefinition">"Are you sure you want to delete your account? "</string>
+    <string name="default_w_eb__client_id">default_weeb_client__id</string>
+    <string name="defauult_we_eb_client_id">we_eb_client_id</string>
+    <string name="default_we_eb_client_id">webi_d</string>
+    <!--<string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+        -->
+</resources>
+

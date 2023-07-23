@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/drawable/ic_filter_list_black_24dp.xml" value="0.248" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/drawable/ic_local_hospital_black_24dp.xml" value="0.248" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/drawable/ic_profile.xml" value="0.248" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/drawable/ic_search.xml" value="0.248" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/activity_doctor_home.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/activity_my_doctors.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/activity_profile_doctor.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/activity_search_pat.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/activity_splaceactivity.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/doctor_item.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/my_doctor_item.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/my_patient_item.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/pat_request_item.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/layout/patient_appointments_item.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhav/app/src/main/res/menu/navigation_bar.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhavnagar/app/src/main/res/layout/activity_fiche.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhavnagar/app/src/main/res/layout/activity_fiche_info.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhavnagar/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/KARAN/AndroidStudioProjects/Dr.Bhavnagar/app/src/main/res/layout/activity_splaceactivity.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
